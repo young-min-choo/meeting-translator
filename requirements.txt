@@ -1,0 +1,7 @@
+faster-whisper
+soundcard
+soundfile
+numpy
+colorama
+openai
+python-dotenv

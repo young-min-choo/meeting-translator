@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+*.wav
+*.log
+meeting_log*.txt
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
