@@ -31,7 +31,7 @@ You need an **OpenAI API Key** to use the translation engine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/meeting-translator.git
+    git clone https://github.com/young-min-choo/meeting-translator.git
     cd meeting-translator
     ```
 
